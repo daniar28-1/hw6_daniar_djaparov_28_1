@@ -1,2 +1,1 @@
 python-decouple==3.8
- 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
